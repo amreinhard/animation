@@ -12,6 +12,8 @@
 		BF1D458E2073934200DCF95A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF1D458C2073934200DCF95A /* Main.storyboard */; };
 		BF1D45902073934200DCF95A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF1D458F2073934200DCF95A /* Assets.xcassets */; };
 		BF1D45932073934200DCF95A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF1D45912073934200DCF95A /* LaunchScreen.storyboard */; };
+		BF1D459C2074B42600DCF95A /* penguin@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF1D459A2074B42500DCF95A /* penguin@2x.png */; };
+		BF1D459D2074B42600DCF95A /* penguin.png in Resources */ = {isa = PBXBuildFile; fileRef = BF1D459B2074B42500DCF95A /* penguin.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		BF1D458F2073934200DCF95A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF1D45922073934200DCF95A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF1D45942073934200DCF95A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF1D459A2074B42500DCF95A /* penguin@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "penguin@2x.png"; sourceTree = "<group>"; };
+		BF1D459B2074B42500DCF95A /* penguin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = penguin.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				BF1D458F2073934200DCF95A /* Assets.xcassets */,
 				BF1D45912073934200DCF95A /* LaunchScreen.storyboard */,
 				BF1D45942073934200DCF95A /* Info.plist */,
+				BF1D459B2074B42500DCF95A /* penguin.png */,
+				BF1D459A2074B42500DCF95A /* penguin@2x.png */,
 			);
 			path = animation;
 			sourceTree = "<group>";
@@ -123,7 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF1D45932073934200DCF95A /* LaunchScreen.storyboard in Resources */,
+				BF1D459C2074B42600DCF95A /* penguin@2x.png in Resources */,
 				BF1D45902073934200DCF95A /* Assets.xcassets in Resources */,
+				BF1D459D2074B42600DCF95A /* penguin.png in Resources */,
 				BF1D458E2073934200DCF95A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
